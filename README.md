@@ -27,7 +27,7 @@ This project provides a simple, scalable, and effective solution by:
 - Reducing manual workload through automation
 - Improving accuracy and data accessibility
 - Making the hospital workflow smoother and faster
-- 
+
  # Project Structure
   Rural-Healthcare-System/
 ├── main.py # Main executable file
